@@ -41,7 +41,9 @@ http://103.191.99.248:5550/209/index.m3u8
 #EXTINF:-1 group-title="💠BDIX💠" tvg-logo="https://imglink.cc/cdn/qonZADSZua.png",Zee Bangla
 http://103.191.99.248:5550/301/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/Star_Jalsha_logo_2023.png?20230625063343" group-title="💠BDIX💠",Star Jalsha HD
-http://103.191.99.248:5550/302/index.m3u8
+http://172.19.17.34:80/play/JmU-3pCgErAiWP5dU8MsA8PwkV3_HSXlG7wgILF5Hbk/ts
+
+#http://103.191.99.248:5550/302/index.m3u8
 #EXTINF:-1 tvg-id="77" group-title="💠BDIX💠" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1739965013824.png",Jalsha Movies
 http://103.191.99.248:5550/303/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7b/Colors_Bangla.png" group-title="💠BDIX💠",Colors Bangla
